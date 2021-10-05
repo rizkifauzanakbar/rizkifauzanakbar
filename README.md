@@ -9,14 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: Always feel calm when driving
 
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="" />][website]
-[<img align="left" alt=" | YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt=" | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="" />][instagram]
-
 <br />
 
 ### Languages and Tools:
