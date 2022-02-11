@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Gurungaji.Com][website]
+- 🔭 I’m currently working on STIKes muhammadiyah Kuningan
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: Always feel calm when driving
@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://gurungaji.com
-[course]: http://gurungaji.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/__rizkifa/
